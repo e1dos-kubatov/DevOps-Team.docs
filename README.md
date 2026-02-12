@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # Наш DevOps проект
 
 ## Описание проекта
@@ -8,11 +15,13 @@
 Здесь список участников:
 
 Eldos Kubatov
-Kasymbek Gairatbekov
-
+- Kasymbek Gairatbekov — DevOps Engineer
 ## Стек технологий
-Здесь технологии...
+- Docker
+- Linux
 
 
 ## Инструкции по запуску
-Здесь шаги для запуска...
+1. Клонировать репозиторий: git clone <repo-url>
+2. Перейти в директорию проекта
+3. Запустить docker-compose up
